@@ -13,3 +13,15 @@ div.row{
 div.buttons nav{
     padding-top: 150px;
 }
+.dropdown-toggle{
+    margin-right:100px;
+}
+
+.btn-success{
+    margin-left: 1000px;
+}
+
+.dropdown-menu{
+    margin-left: 1340px;
+    padding-bottom:50px ;
+}
