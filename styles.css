@@ -1,9 +1,9 @@
 div.col-4 img{
-  width: 445px;
-  height: 180px ;
+  width: 490px;
+  height: 300px ;
 }
 div.row{
-    padding-top: 60px;
+    padding-top: 20px;
 }
 .navbar-brand{
     font-family: 'Oleo Script', cursive;
@@ -24,4 +24,25 @@ div.buttons nav{
 .dropdown-menu{
     margin-left: 1340px;
     padding-bottom:50px ;
+}
+.margen{
+    margin-top: 80px;
+}
+
+.card{
+  margin-left: 350px;
+}
+
+.fa-ellipsis-v{
+ margin-left: 760px;
+ size: 50px;
+ 
+}
+.fa-heart{
+    size: 50px;
+    padding-top: 20px;
+}
+
+.btn-link{
+    padding-left: 700px;
 }
